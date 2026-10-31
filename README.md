@@ -15,7 +15,6 @@ My TFT screen is unique as it's much simpler than what's shown in the tutorial. 
 
 <img width="639" height="590" alt="Screenshot 2026-10-31 at 5 33 43 PM" src="https://github.com/user-attachments/assets/c59258be-4c1c-49bd-b36a-a4aade126eed" />
 
-
 ## KiCad pcb
 
 ### Normal view
@@ -25,3 +24,14 @@ My TFT screen is unique as it's much simpler than what's shown in the tutorial. 
 ### 3D view
 
 <img width="386" height="437" alt="Screenshot 2026-10-31 at 5 35 36 PM" src="https://github.com/user-attachments/assets/e1e64c99-f3ec-45fe-ad70-2ac61e0326ce" />
+
+# BOM
+
+|Item                    |Qty|Supplier  |Cost/item|Total Cost|link                                                                                       |
+|------------------------|---|----------|---------|----------|-------------------------------------------------------------------------------------------|
+|CANADUINO® ST7789       |1  |Amazon    |$4.29    |$4.29     |https://www.amazon.ca/gp/product/B088CQ4GPT/ref=ox_sc_act_title_1?smid=A29AOP4GIE7DX6&psc=1|
+|PCB                     |1  |JLCPCB    |$4.00    |$4.00     |https://jlcpcb.com                                                                         |
+|Raspberry Pi Pico       |1  |AliExpress|$2.58    |$2.58     |https://www.aliexpress.com/item/1005005617180169.html                                      |
+|Rotary Encoder          |1  |AliExpress|$1.01    |$1.01     |https://www.aliexpress.com/item/1005007644083514.html                                      |
+|Low profile switch      |1  |Amazon    |$6.05    |$6.05     |https://www.amazon.ca/gp/product/B0C6FH6XQ7/ref=ox_sc_act_title_1?smid=A1XJHOP1YXWD49&psc=1|
+|Estimated total shipping|1  |          |         |$8.77     |                                                                                           |
